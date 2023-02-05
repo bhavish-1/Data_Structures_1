@@ -1,0 +1,6 @@
+remember always
+
+-> first count number of rows (that will be your i)
+-> then count number of columns in the rows (this will be your j)
+-> then check pattern in the col and write the program.
+-> khatam tata tata bye bye
